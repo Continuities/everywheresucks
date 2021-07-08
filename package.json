@@ -1,0 +1,9 @@
+{
+  "name": "everywheresucks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Continuities/everywheresucks.git",
+  "author": "Michael Townsend <michael@doublespeakgames.com>",
+  "license": "MIT",
+  "private": true
+}
